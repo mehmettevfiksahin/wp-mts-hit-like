@@ -1,7 +1,7 @@
 # wp-mts-hit-likes
 
 # KURULUM 
-	1-) mts.rar içinden çıkardiğiniz dosyayı wp-content/plugins/ içine atın.
+	1-) Rar içinden çıkardiğiniz dosyayı wp-content/plugins/ içine atın.
 	2-) Wordpress admin paneli eklentiler bölümünden eklentiyi aktifleştirin
 	3-) Kurulumu başarıyla tamamladınız.
 	
