@@ -1,0 +1,14 @@
+span.like {width:50px;height:50px;line-height: 50px;text-align: center;float:right;display:block;}
+span.like i {font-size:30px;transition:400ms;cursor:pointer;}
+span.like:hover i {font-size:40px;opacity:.6;}
+span.like.active {color:#f24141;}
+.temizle {clear: both;}
+#mts-tags {bacground:0,0,0,.2;}
+#mts-tags .mts-tag a {background: #34495e;height: 50px;line-height: 50px;padding: 0 10px 0 40px;margin: 10px;color: #fff;border-bottom: 4px solid #27ae60;text-align: center;text-transform: uppercase;float: left;text-decoration: none;box-shadow: none;display: block;}
+#mts-tags .mts-tag a span {background: #e74c3c;margin-left: 20px;padding: 4px 10px;border-radius:3px;}
+.mts-page {width:100%;text-align:center;display:block;margin-top:20px;}
+.mts-page a {padding:10px;margin: 0 5px;}
+#mts-popular-posts  ul li {list-style:none;margin:5px 0;}
+#mts-popular-posts  ul li:hover a span {background:#e74c3c;}
+#mts-popular-posts  ul li a {display:block;}
+#mts-popular-posts  ul li a span {float: right;background: #6b6b6b;padding: 0px 6px;margin-top:2px;color: #fff;border-radius: 3px;font-size: 10px;font-weight: 600;}
