@@ -17,4 +17,4 @@
 		2. Sayfanın yazı kısmına [etiket_listele] yazıp kaydediniz.
 		3. Sayfayı görüntülediğinizde etiketlerin listelendiğini görebilirsiniz.
 
-***Uyarı*** Yeni Yazı değil Sayfa oluşturmalısınız yoksa eklenti düzgün şekilde çalışmaz..
+***Uyarı!!*** Yeni Yazı değil Sayfa oluşturmalısınız yoksa eklenti düzgün şekilde çalışmaz..
